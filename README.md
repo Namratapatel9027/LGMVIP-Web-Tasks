@@ -1,1 +1,2 @@
-# LGMVIP-Web-Tasks
+<h1 align=center>LetsGrowMore Internship Tasks</h1>
+This Repository contains the tasks assigned during the internship program offered by LetsGrowMore. The tasks encompass a range of topics and skills aimed at enhancing practical knowledge and proficiency in various domains. Each task is structured to challenge and expand the understanding of relevant concepts while encouraging hands-on experience and problem-solving skills.
